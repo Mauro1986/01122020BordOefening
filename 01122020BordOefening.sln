@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01122020BordOefening", "01122020BordOefening\01122020BordOefening.csproj", "{B15BC9C5-6CF8-4862-AEF3-5480E7BD675B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15BC9C5-6CF8-4862-AEF3-5480E7BD675B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15BC9C5-6CF8-4862-AEF3-5480E7BD675B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15BC9C5-6CF8-4862-AEF3-5480E7BD675B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15BC9C5-6CF8-4862-AEF3-5480E7BD675B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD33923A-8431-4C0F-9698-9543F026C20C}
+	EndGlobalSection
+EndGlobal
